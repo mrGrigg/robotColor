@@ -1,0 +1,4 @@
+RobotColor
+======
+
+This is mostly pointless, but if you want to use it, feel free. It creates an array of random color blocks and rotates the colors, creating a sort of flashing marquee effect.
