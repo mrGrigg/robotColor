@@ -11,8 +11,9 @@ The basic usage takes an HTML element like:
 ```
 
 The javascript side looks like:
+
 ```javascript
-  $('header').robotColor();
+$('header').robotColor();
 ```
 
 # License
