@@ -2,7 +2,7 @@
 
 robotColor takes an html element and creates an array of randomly generated, alternating color blocks for each letter.
 
-The current version of the script is modularized as a requireJS module.
+The current version of the script is a jQuery extension modularized as a requireJS module, therefor it depends on both jquery and require.
 
 The basic usage takes an HTML element like:
 
