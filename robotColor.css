@@ -1,0 +1,17 @@
+/* RobotColor */
+.robotColor {
+    height:40px;
+    margin: 5px auto;
+}
+
+.robotColor span
+{
+    display:block;
+    width:40px;
+    height:40px;
+    float:left;
+    color:White;
+    font-family:Arial Black;
+    font-size:30px;
+    text-align:center;
+}
